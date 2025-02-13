@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jinbin Zhang and I'm a PhD student at Aalto University, working with Prof. Rohit Babbar and Prof. Pekka Marttinen</p>
+<p align="left">My name is Jinbin Zhang and I'm a PhD student at Aalto University.</p>
 
 ###
 
@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨Working on the topics of Extreme Classification and efficiency of LLMs 📚 I'm currently learning CUDA <br>🎯 Goals: Finishing the PhD and starting a starup in the future<br></p>
+<p align="left">
+  ✨Working on the topics of Extreme Classification and efficiency of LLMs <br>
+  🧑‍💻Working with Prof. Rohit Babbar and Prof. Pekka Marttinen <br>
+  📚 I'm currently learning CUDA <br>
+  🎯 Goals: Finishing the PhD and starting a startup in the future<br></p>
 
 ###
 
@@ -20,9 +24,9 @@
 
 <div align="left">
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="c++ logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-plain-wordmark.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="python logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-plain.svg" height="40" alt="c++ logo"  />
 </div>
 
 ###

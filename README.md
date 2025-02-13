@@ -14,7 +14,7 @@
   ✨Working on the topics of Extreme Classification and efficiency of LLMs <br>
   🧑‍💻Working with Prof. Rohit Babbar and Prof. Pekka Marttinen <br>
   📚 I'm currently learning CUDA <br>
-  🎯 Goals: Finishing the PhD and starting a startup in the future<br></p>
+  🎯 Goals: Finishing the PhD and starting a side project in the future<br></p>
 
 ###
 

@@ -17,16 +17,3 @@
   🎯 Goals: Finishing the PhD and starting a side project in the future<br></p>
 
 ###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-plain-wordmark.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-plain.svg" height="40" alt="c++ logo"  />
-</div>
-
-###

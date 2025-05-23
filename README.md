@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jinbin Zhang, and I’m a PhD student at Aalto University. Before starting my PhD, I worked as an R&D engineer (search engine) at two tech companies.</p>
+<p align="left">My name is Jinbin Zhang, and I’m a PhD student at Aalto University. Before starting my PhD, I worked as a R&D engineer (search engine) at two tech companies.</p>
 
 ###
 
